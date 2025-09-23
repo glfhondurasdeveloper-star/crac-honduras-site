@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.crac.glfhonduras",
+    "sha256_cert_fingerprints": [
+      "8D:C6:B2:3D:4B:AE:B6:6F:C7:FA:79:E3:7E:61:F6:C3:7D:9F:7A:23:80:D9:6D:A1:6E:88:FD:5F:C0:81:B1:06"
+    ]
+  }
+}]
