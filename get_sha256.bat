@@ -21,8 +21,8 @@ echo.
 echo === INSTRUCCIONES ===
 echo 1. Copia los SHA256 que aparecen arriba
 echo 2. Reemplaza en assetlinks.json:
-echo    - REEMPLAZAR_CON_TU_SHA256_DEBUG
-echo    - REEMPLAZAR_CON_TU_SHA256_RELEASE
+echo    - 88:98:63:BD:3B:6C:6B:4C:65:60:3B:6B:1C:AE:C5:CF:9F:A0:74:BF:6F:F0:D9:84:19:3B:96:2C:4D:47:C4:7D
+echo    - 36:76:EF:0F:25:B5:16:60:A7:9D:00:17:61:E9:F9:B6:DB:75:B0:63:CB:43:6D:E3:8B:08:69:00:75:44:12:DC
 echo 3. Sube los archivos a GitHub Pages
 echo.
 pause
